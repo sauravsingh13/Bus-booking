@@ -1,0 +1,22 @@
+.Addbus input{
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(131, 211, 248);
+    width:30%
+}
+.Addbus textarea{
+    margin: auto;
+    border-radius: 5px;
+    border: 2px solid rgb(131, 211, 248);
+    width:30%
+}
+.Addbus select{
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(131, 211, 248);
+    width:30%
+}
+.Addbus label{
+    font-size: 20px;
+    color: rgb(38, 63, 75)
+}

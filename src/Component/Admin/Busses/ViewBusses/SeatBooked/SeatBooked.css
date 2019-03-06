@@ -1,0 +1,10 @@
+.SeatBooked{
+    width:400px;
+    background-color:rgb(250, 245, 245);
+    margin:auto;
+    margin-top:5%;
+    padding: 10px;
+    border-radius: 3px;
+    transition: all 0.3s ease-in-out;
+
+}

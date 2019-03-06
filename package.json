@@ -1,0 +1,56 @@
+{
+  "name": "bus-app-master",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "start-dev-server": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8080",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "cookie-parser": "~1.4.3",
+    "cookie-session": "^1.3.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "http-proxy-middleware": "^0.19.1",
+    "jade": "~1.11.0",
+    "localStorage": "^1.0.4",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "mongoose": "^5.4.14",
+    "morgan": "~1.9.0",
+    "nodemailer": "^5.1.1",
+<<<<<<< HEAD
+    "nodemon": "^1.18.10",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0",
+=======
+>>>>>>> 329539f26daecc7302fe8dc610ea9a2133843505
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.3",
+    "reactstrap": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "serve-favicon": "^2.5.0"
+  }
+}

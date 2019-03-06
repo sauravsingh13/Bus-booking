@@ -1,0 +1,34 @@
+/* .bus_left{
+    float:left;
+    width:50%;
+    
+}
+.bus_right{
+    padding-top: 10px;
+    float:right;
+} */
+.BusDetail{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 0;
+    color: rgb(2, 51, 24);
+}
+/* .bus_center{
+    float:left;
+    width:25%;
+    padding-top: 10px;
+} */
+.bus{
+    background-color: rgba(221, 248, 202,0.5);
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin-top:30px;
+}
+.bus:hover{
+    background-color: rgba(221, 248, 202,0.7);
+    border: 2px solid rgb(184, 181, 181);
+    box-shadow: 0 3px 4px rgb(161, 161, 161);
+}
+.book_bus{
+
+}

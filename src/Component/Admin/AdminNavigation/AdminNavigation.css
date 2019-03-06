@@ -1,0 +1,21 @@
+.AdminNavigationButton {
+    background: rgb(12, 161, 247) none repeat scroll 0 0;
+    border: 1px solid rgb(3, 156, 245);
+    border-radius: 25px;
+    color: rgb(3, 31, 107);
+    font-size: 16px;
+    font-style: normal;
+    line-height: 35px;
+    margin: 20px;
+    padding: 0;
+    text-transform: uppercase;
+    width: 20%;
+    font-weight: bold;
+    outline: none;
+}
+
+.AdminNavigationButton:hover {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #5793ef;
+    transition: all 0.5s ease 0s;
+}

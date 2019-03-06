@@ -1,0 +1,23 @@
+.ViewBus{
+    text-align: center;
+    margin: 20px 20px 0 20px;
+    background-color: rgba(248, 223, 223, 0.5);
+    color:rgb(34, 43, 34);
+    padding:10px
+
+}
+.ViewBus:hover{
+    background-color: rgba(221, 248, 202,0.7);
+    border: 2px solid rgb(184, 181, 181);
+    box-shadow: 0 3px 4px rgb(161, 161, 161);
+}
+.ViewBus .BusDetail{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 0;
+    color: rgb(2, 51, 24);
+    margin: auto;
+}
+.ViewBus button{
+    margin: 5px;
+}

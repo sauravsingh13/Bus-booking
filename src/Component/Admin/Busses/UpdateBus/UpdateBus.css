@@ -1,0 +1,22 @@
+.Updatebus input{
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(248, 197, 131);
+    width:30%
+}
+.Updatebus textarea{
+    margin: auto;
+    border-radius: 5px;
+    border: 2px solid rgb(248, 197, 131);
+    width:30%
+}
+.Updatebus select{
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(248, 197, 131);
+    width:30%
+}
+.Updatebus label{
+    font-size: 20px;
+    color: rgb(38, 63, 75)
+}
